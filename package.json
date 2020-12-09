@@ -1,0 +1,14 @@
+{
+  "name": "frequency-list-converter",
+  "version": "0.0.1",
+  "description": "convert frequency list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "wanakana": "^4.0.2"
+  }
+}
